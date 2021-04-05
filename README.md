@@ -2,7 +2,7 @@
 
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Interested in learning simple ways to maximize my coding efforts with small builds and projects.
+- 🤔 &nbsp; Focusing on upgrading my skills by creating small builds and projects.
 - 🎓 &nbsp; Studying Front-End: React, JS, Modern CSS and HTML syntax. Back-End: Node, Express, SQL, Postgress.
 - 🌱 &nbsp; Learning more about Sass, Layered Architecture, and React Libraries.
 - ✍️ &nbsp; Current hobbies are pursuing writing blogs, cooking vegan meals, and volunteering with animal shelters.
