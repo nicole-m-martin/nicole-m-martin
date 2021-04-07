@@ -2,6 +2,7 @@
 
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
+- ⚡️ &nbsp; Pronouns (she/her)
 - 🤔 &nbsp; Focusing on upgrading my skills by creating small builds and projects.
 - 🎓 &nbsp; Studying Front-End: React, JS, Modern CSS and HTML syntax. Back-End: Node, Express, SQL, Postgress.
 - 🌱 &nbsp; Learning more about Sass, Layered Architecture, and React Libraries.
