@@ -4,7 +4,7 @@
 
 - ⚡️ &nbsp; Pronouns (she/her)
 - 🤔 &nbsp; Focusing on upgrading my skills by creating small builds and projects.
-- 🎓 &nbsp; Studying Front-End: React, JS, Modern CSS and HTML Syntax. Back-End: Node, Express, SQL, Postgress.
+- 🎓 &nbsp; Studying Front-End: React, JS, Modern CSS and HTML Syntax. Back-End: Node, Express, PostgreSQL.
 - 🌱 &nbsp; Learning more about Sass, Layered Architecture, and React Libraries.
 - ✍️ &nbsp; Current hobbies are pursuing writing blogs, cooking vegan meals, and volunteering with animal shelters.
 
