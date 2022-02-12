@@ -29,15 +29,14 @@
 
 <p align="center">
 <a href="https://twitter.com/nmartinpdx/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Nicole%20Martin?style=social&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/nicolemartinpdx/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicole%20Martin?style=social&logo=linkedin"></a>
-<a href="mailto:n.martinpdx@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-n.martinpdx@gmail.com-green?style=social&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/nicolemartinpdx/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicole%20Martin?style=social&logo=linkedin">
 </p>
 
 <p align="center">
 
 <a href="https://github.com/nicole-m-martin">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicole-m-martin&theme=buefy&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-m-martin&theme=buefy&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicole-m-martin&theme=outrun&hide=issues&count_private=true&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-m-martin&theme=outrun&layout=compact" />
 </a>
 </p>
 
