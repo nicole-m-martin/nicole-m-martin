@@ -16,6 +16,9 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=for-the-badge&logo=tailwindCSS)
+  
+  
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
@@ -23,6 +26,8 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+- ✏️ &nbsp;
+  ![HashNode](https://img.shields.io/badge/-Hashnode-333333?style=for-the-badge&logo=hashnode) [@NicCodes](https://hashnode.com/@NicCodes)
 
 
 <h3> 🤓 &nbsp;Connect </h3>
