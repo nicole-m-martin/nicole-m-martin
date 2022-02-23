@@ -41,7 +41,7 @@
 
 <a href="https://github.com/nicole-m-martin">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicole-m-martin&theme=outrun&hide=issues&count_private=true&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-m-martin&theme=outrun&layout=compact" />
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-m-martin&theme=outrun&layout=compact" /> -->
 </a>
 </p>
 
