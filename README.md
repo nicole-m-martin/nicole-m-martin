@@ -4,7 +4,6 @@
 
 - ⚡️ &nbsp; Pronouns (she/her)
 - 🤔 &nbsp; Focusing on upgrading my skills by creating small builds and projects.
-- 🎓 &nbsp; Studying Front-End: React, JS, Modern CSS and HTML Syntax. Back-End: Node, Express, PostgreSQL.
 - 🌱 &nbsp; Learning Next.js, Typescript, Layered Architecture, and React Libraries.
 - ✍️ &nbsp; Current hobbies are pursuing writing blogs, cooking vegan meals, and volunteering with animal shelters.
 
@@ -27,12 +26,17 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 - ✏️ &nbsp;
-  ![HashNode](https://img.shields.io/badge/-Hashnode-333333?style=for-the-badge&logo=hashnode) [@NicCodes](https://hashnode.com/@NicCodes)
+  ![HashNode](https://img.shields.io/badge/-Hashnode-333333?style=for-the-badge&logo=hashnode) 
+  [@NicCodes](https://hashnode.com/@NicCodes)
+  
+  <h3> &nbsp;Blog</h3>
+  
+  - [How To Stay Current with New Tech Trends](https://nicsquicktips.hashnode.dev/how-to-stay-current-with-new-tech-trends)
 
 
 <h3> 🤓 &nbsp;Connect </h3>
 
-<p align="center">
+<p>
 <a href="https://twitter.com/nmartinpdx/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Nicole%20Martin?style=social&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/nicolemartinpdx/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicole%20Martin?style=social&logo=linkedin">
 </p>
