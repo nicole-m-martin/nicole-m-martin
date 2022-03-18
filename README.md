@@ -4,7 +4,7 @@
 
 - ⚡️ &nbsp; Pronouns (she/her)
 - 🤔 &nbsp; Focusing on upgrading my skills by creating small builds and projects.
-- 🌱 &nbsp; Learning Next.js, Typescript, Layered Architecture, and React Libraries.
+- 🌱 &nbsp; Learning Vue, Nuxt.js, Typescript, Layered Architecture, React Libraries.
 - ✍️ &nbsp; Current hobbies are pursuing writing blogs, cooking vegan meals, and volunteering with animal shelters.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -14,6 +14,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=for-the-badge&logo=vue.js)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=for-the-badge&logo=tailwindCSS)
   
