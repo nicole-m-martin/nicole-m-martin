@@ -17,6 +17,7 @@
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=for-the-badge&logo=vue.js)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=for-the-badge&logo=tailwindCSS)
+  ![Sass](https://img.shields.io/badge/-Sass-333333?style=for-the-badge&logo=sass)
   
   
 
