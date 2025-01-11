@@ -1,15 +1,16 @@
-<h2> Hello World! 🌎 I'm Nicole.</h2>
+<h1> Hello World! 🌎<br><br> I'm Nicole - <br>A Portland-Based Product Designer Specializing in User-Centered Web Experiences</h1>
 
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
 - ⚡️ &nbsp; Pronouns (she/her)
-- 🤔 &nbsp; Focusing on upgrading my skills by creating small builds and projects.
-- 🌱 &nbsp; Learning Vue, Nuxt.js, Typescript, Layered Architecture, React Libraries.
-- ✍️ &nbsp; Current hobbies are pursuing writing blogs, cooking vegan meals, and volunteering with animal shelters.
+- 🤔 &nbsp; Focusing on Product Design and upgrading my skills by creating small builds and projects.
+- 🌱 &nbsp; Learning UX/UI Design, UX Research, UI Design, No-Code like Framer, WebFlow and Squarespace, Vue, Nuxt.js, Layered Architecture, React Libraries.
+- ✍️ &nbsp; Current hobbies are finding new vegan recipes, learning design principles, powerlifting, rollerblading, and volunteering with animal shelters.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
@@ -40,7 +41,6 @@
 <h3> 🤓 &nbsp;Connect </h3>
 
 <p>
-<a href="https://twitter.com/nmartinpdx/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Nicole%20Martin?style=social&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/nicolemartinpdx/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicole%20Martin?style=social&logo=linkedin">
 </p>
 
