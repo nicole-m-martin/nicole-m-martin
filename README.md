@@ -3,8 +3,8 @@
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
 - ⚡️ &nbsp; Pronouns (she/her)
-- 🤔 &nbsp; Focusing on Front-End Development and Product Design and upgrading my skills by researching and designing case studies, and creating small builds and projects.
-- 🌱 &nbsp; Learning UX/UI Design, UX Research, UI Design, No-Code like Framer, WebFlow and Squarespace, Vue, Nuxt.js, Layered Architecture, React Libraries.
+- 🤔 &nbsp; Focusing on Front-End Development and Product Design, upgrading my skills by researching and designing case studies, and creating small builds and projects.
+- 🌱 &nbsp; Learning UX/UI Design, UX Research, UI Design, No-Code like Framer, WebFlow and Squarespace, Cursor AI, Vue, Nuxt.js, Layered Architecture, React Libraries.
 - ✍️ &nbsp; Current hobbies are finding new vegan recipes, learning design principles, powerlifting, rollerblading, and volunteering with animal shelters.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
