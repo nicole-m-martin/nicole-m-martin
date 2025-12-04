@@ -1,4 +1,4 @@
-<h1> Hello World! 🌎<br><br> I'm Nicole 👋 <br>Portland-Based Developer - Specializing in User-Centered Web Experiences</h1>
+<h1> Hello World! 🌎<br><br> I'm Nicole 👋
 
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
